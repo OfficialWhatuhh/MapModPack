@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SpoonerPlacements>
+	<Note />
+	<AudioFile volume="400" />
+	<ClearDatabase>false</ClearDatabase>
+	<ClearWorld>0</ClearWorld>
+	<ClearMarkers>false</ClearMarkers>
+	<IPLsToLoad load_mp_maps="false" load_sp_maps="false" />
+	<IPLsToRemove />
+	<InteriorsToEnable />
+	<InteriorsToCap />
+	<WeatherToSet></WeatherToSet>
+	<TimecycleModifier strength="1"></TimecycleModifier>
+	<StartTaskSequencesOnLoad>true</StartTaskSequencesOnLoad>
+	<ReferenceCoords>
+		<X>-1668.81616</X>
+		<Y>233.831223</Y>
+		<Z>1480.60925</Z>
+	</ReferenceCoords>
+	<Placement>
+		<ModelHash>0xa87654f7</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>apa_mp_h_acc_rugwooll_03</HashName>
+		<InitialHandle>597000</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>false</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-1668.85779</X>
+			<Y>233.703018</Y>
+			<Z>1480.57263</Z>
+			<Pitch>0</Pitch>
+			<Roll>0</Roll>
+			<Yaw>-89.9267197</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0xa87654f7</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>apa_mp_h_acc_rugwooll_03</HashName>
+		<InitialHandle>338185</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>false</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-1681.01636</X>
+			<Y>238.798019</Y>
+			<Z>1482.3457</Z>
+			<Pitch>36.9999886</Pitch>
+			<Roll>2.08796869e-09</Roll>
+			<Yaw>0.0558047853</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Placement>
+		<ModelHash>0xa87654f7</ModelHash>
+		<Type>3</Type>
+		<Dynamic>false</Dynamic>
+		<FrozenPos>true</FrozenPos>
+		<HashName>apa_mp_h_acc_rugwooll_03</HashName>
+		<InitialHandle>116236</InitialHandle>
+		<ObjectProperties>
+			<TextureVariation>0</TextureVariation>
+		</ObjectProperties>
+		<OpacityLevel>255</OpacityLevel>
+		<LodDistance>16960</LodDistance>
+		<IsVisible>false</IsVisible>
+		<MaxHealth>1000</MaxHealth>
+		<Health>1000</Health>
+		<HasGravity>true</HasGravity>
+		<IsOnFire>false</IsOnFire>
+		<IsInvincible>false</IsInvincible>
+		<IsBulletProof>false</IsBulletProof>
+		<IsCollisionProof>false</IsCollisionProof>
+		<IsExplosionProof>false</IsExplosionProof>
+		<IsFireProof>false</IsFireProof>
+		<IsMeleeProof>false</IsMeleeProof>
+		<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+		<PositionRotation>
+			<X>-1683.14636</X>
+			<Y>243.501114</Y>
+			<Z>1484.77893</Z>
+			<Pitch>37.0000191</Pitch>
+			<Roll>-6.68150449e-07</Roll>
+			<Yaw>91.9907074</Yaw>
+		</PositionRotation>
+		<Attachment isAttached="false" />
+	</Placement>
+	<Marker>
+		<Name>enterdorms</Name>
+		<InitialHandle>3</InitialHandle>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="102" G="0" B="204" A="190" />
+		<Position>
+			<Position X="-1669.64929" Y="229.421249" Z="1481.94299" />
+			<Rotation X="0" Y="0" Z="-144.18782" />
+		</Position>
+		<Destination>
+			<LinkInitHandle>999999720</LinkInitHandle>
+			<Position X="-1648.83057" Y="249.499344" Z="1483.12781" />
+			<Rotation X="0" Y="0" Z="-91.6843338" />
+		</Destination>
+		<DestinationHeading>-144</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>exitdorms</Name>
+		<InitialHandle>6</InitialHandle>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="102" G="0" B="204" A="190" />
+		<Position>
+			<Position X="-1648.83057" Y="249.499344" Z="1483.12781" />
+			<Rotation X="0" Y="0" Z="-91.6843338" />
+		</Position>
+		<Destination>
+			<LinkInitHandle>1936482662</LinkInitHandle>
+			<Position X="-1669.64929" Y="229.421249" Z="1481.94299" />
+			<Rotation X="0" Y="0" Z="-144.18782" />
+		</Destination>
+		<DestinationHeading>-92</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>exitschool</Name>
+		<InitialHandle>9</InitialHandle>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="102" G="0" B="204" A="190" />
+		<Position>
+			<Position X="-1667.5271" Y="233.081238" Z="1481.91394" />
+			<Rotation X="0" Y="0" Z="-86.5799713" />
+		</Position>
+		<Destination>
+			<LinkInitHandle>12</LinkInitHandle>
+			<Position X="-1636.90442" Y="180.572754" Z="61.9036942" />
+			<Rotation X="0" Y="0" Z="105.207581" />
+		</Destination>
+		<DestinationHeading>-87</DestinationHeading>
+	</Marker>
+	<Marker>
+		<Name>enterschool</Name>
+		<InitialHandle>12</InitialHandle>
+		<Type>0</Type>
+		<Scale>0.899999976</Scale>
+		<ShowName>false</ShowName>
+		<RotateContinuously>true</RotateContinuously>
+		<AllowVehicles>false</AllowVehicles>
+		<Colour R="102" G="0" B="204" A="190" />
+		<Position>
+			<Position X="-1636.90442" Y="180.572754" Z="61.9036942" />
+			<Rotation X="0" Y="0" Z="105.207581" />
+		</Position>
+		<Destination>
+			<LinkInitHandle>9</LinkInitHandle>
+			<Position X="-1667.22717" Y="233.081238" Z="1481.71399" />
+			<Rotation X="0" Y="0" Z="-86.5799713" />
+		</Destination>
+		<DestinationHeading>105</DestinationHeading>
+	</Marker>
+</SpoonerPlacements>
